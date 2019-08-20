@@ -54,7 +54,7 @@ a {
 }
 
 a[data-tool-tip]::after {
-    content: attr(data-tool-tip);
+    content: '>> ' attr(data-tool-tip);
     background: rgb(206, 63, 63);
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
     color: #fff;
