@@ -58,7 +58,7 @@ a[data-tool-tip]::after {
     background: rgb(206, 63, 63);
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
     color: #fff;
-    border: 1px solid rgb(151, 36, 36);
+    border: 1px solid rgb(150, 41, 41);
     position: absolute;
     display: block;
     top: 100%;
